@@ -1,4 +1,4 @@
-FROM scolagreco/docker-alpine:v3.8.2
+FROM scolagreco/docker-alpine:v3.9.2
 
 ENV JAVA_HOME=/usr/lib/jvm/java-1.8-openjdk
 ENV JRE_HOME=$JAVA_HOME/jre
