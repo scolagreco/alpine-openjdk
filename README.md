@@ -11,6 +11,11 @@ Repository con il dockerfile per creare una Docker Image di Alpine Linux con Jav
 ## Info
 
 La versione 3.9.2 di Alpine Linux e openjdk8 del sistema.
+Questa versione utilizza come immagine di base questa:
+
+- [(Dockerfile)](https://github.com/scolagreco/alpine-base/blob/master/Dockerfile)
+
+Che ha il timezone corretto (Europe/Rome).
 
 ## Versions
 
